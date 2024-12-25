@@ -1,4 +1,4 @@
-# ¿Cómo implementar Modelos de Lenguaje (LLM) Locales en Computación Forense?
+# Implementando Modelos de Lenguaje Locales (LLM) en Computación Forense
 
 ## Introducción
 
