@@ -4,6 +4,8 @@
 
 ¡Bienvenidos! Lo que busco es abordar la necesidad de ayudar a implementar modelos de **lenguaje de gran escala (LLM) de manera local** en instituciones de fuerzas de seguridad, públicas e incluso privadas. La idea principal es proporcionar a estos, la seguridad de poder trabajar con evidencia digital en entornos controlados y seguros.
 
+![image](https://drive.google.com/uc?export=view&id=1v3PVTFcnS2Ovn4TMYjqbZvc6U8OajO8M) 
+
 ---
 
 ## Objetivos.
