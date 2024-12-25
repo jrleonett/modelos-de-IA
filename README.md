@@ -1,12 +1,12 @@
 # Implementando Modelos de Lenguaje Locales (LLM) en Computación Forense
 
-## Introducción
+## Introducción.
 
 ¡Bienvenidos! Lo que busco es abordar la necesidad de ayudar a implementar modelos de **lenguaje de gran escala (LLM) de manera local** en instituciones de fuerzas de seguridad, públicas e incluso privadas. La idea principal es proporcionar a estos, la seguridad de poder trabajar con evidencia digital en entornos controlados y seguros.
 
 ---
 
-## Objetivos
+## Objetivos.
 
 - **Privacidad y seguridad:** Garantizar que los datos sensibles no salgan del entorno local.
 - **Eficiencia en el análisis:** Facilitar tareas como la clasificación, generación y análisis de texto relacionado con evidencias digitales.
@@ -15,16 +15,16 @@
 
 ---
 
-## Requerimientos Técnicos
+## Requerimientos Técnicos.
 
-### Hardware Recomendado
+### Hardware recomendado.
 
 - **GPU:** Tarjeta NVIDIA compatible con CUDA (24 GB VRAM o más si planeas usar modelos grandes como GPT-4-13B).
 - **RAM:** Al menos 64 GB para manejar datos complejos con fluidez.
 - **Almacenamiento:** Un SSD de 2 TB o más para mantener tus datos organizados y accesibles.
 - **CPU:** Procesador de 16 núcleos o más para un rendimiento óptimo.
 
-### Software Necesario
+### Software necesario.
 
 - **Sistema Operativo:** Linux (preferiblemente Ubuntu 20.04 o superior).
 - **Librerías y herramientas:**
@@ -38,7 +38,7 @@
 
 ---
 
-## Estructura de Implementación
+## Estructura de implementación.
 
 1. **Elegir el modelo correcto:** Escoge un modelo preentrenado que se ajuste a tus necesidades forenses.
 2. **Preparar tus datos:** Configura pipelines para procesar la información antes de usarla.
@@ -49,7 +49,7 @@
 
 ---
 
-## Modelos Recomendados para Computación Forense
+## Modelos recomendados para la computación forense.
 
 Aquí tienes algunos modelos que pueden ser útiles en análisis y procesamiento de datos forenses:
 
@@ -115,7 +115,7 @@ Aquí tienes algunos modelos que pueden ser útiles en análisis y procesamiento
 
 ---
 
-## Ventajas de Trabajar con Modelos Locales
+## Ventajas de trabajar con modelos locales.
 
 1. **Privacidad garantizada:** Los datos sensibles nunca salen del entorno controlado.
 2. **Personalización total:** Adapta los modelos a tus necesidades específicas.
@@ -124,7 +124,7 @@ Aquí tienes algunos modelos que pueden ser útiles en análisis y procesamiento
 
 ---
 
-## Ejemplo de Configuración
+## Ejemplo de configuración.
 
 ```bash
 # Instalación de Dependencias
