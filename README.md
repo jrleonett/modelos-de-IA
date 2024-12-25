@@ -2,7 +2,7 @@
 
 ## Introducción
 
-¡Bienvenidos! Lo que busco es abordar la necesidad de ayudar a implementar modelos de lenguaje de gran escala (LLM) de manera local en instituciones de fuerzas de seguridad, públicas e incluso privadas. La idea principal es proporcionar a estos, la seguridad de poder trabajar con evidencia digital en entornos controlados y seguros.
+¡Bienvenidos! Lo que busco es abordar la necesidad de ayudar a implementar modelos de **lenguaje de gran escala (LLM) de manera local** en instituciones de fuerzas de seguridad, públicas e incluso privadas. La idea principal es proporcionar a estos, la seguridad de poder trabajar con evidencia digital en entornos controlados y seguros.
 
 ---
 
